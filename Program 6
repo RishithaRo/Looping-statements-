@@ -1,0 +1,5 @@
+#printing even numbers from 1 to 10 by incrementing
+i=2
+while i<=10:
+	print(i)
+	i+=2
