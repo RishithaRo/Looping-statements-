@@ -1,0 +1,15 @@
+#Finding Factorial of 5 by incrementing 
+i=1
+product=1
+while i<=5:
+	product=product*i
+	i+=1
+print("The factorial is:",product)
+
+#Finding Factorial of 5 by decrementing
+i=5
+product=1
+while i>=1:
+	product=product*i
+	i-=1
+print("The factorial of 5:",product)
