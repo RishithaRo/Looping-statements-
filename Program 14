@@ -1,0 +1,23 @@
+#write a python program to print even numbers between 30 to 1 by decrementing
+i=30
+while i>=1:
+	print(i)
+	i-=2
+'''_____________OUTPUT_____________
+30
+28
+26
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+[Program finished]'''
