@@ -1,0 +1,16 @@
+#write a python program to print 10 to 1 numbers.#wrte a python program to print 1 to 10 numbers in reverse order.
+for i in range(10,1-1,-1):
+	print(i)
+'''_____________OUTPUT_______________
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+
+[Program finished]'''
