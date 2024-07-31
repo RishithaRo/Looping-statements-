@@ -1,0 +1,10 @@
+#write a python program to print factorial of 5
+#by decrementing
+fact=1
+for i in range(5,1-1,-1):
+	fact=fact*i
+print("The factorial of 5 is:",fact)
+'''_____________OUTPUT________________
+The factorial of 5 is: 120
+
+[Program finished]'''
