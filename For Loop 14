@@ -1,0 +1,11 @@
+#write a python program to accept a number and print the factorial of it by incrementing
+n=int(input("Enter n value:"))
+fact=1
+for i in range(1,n+1):
+	fact=fact*i
+print("The factorial of",n,"is",fact)
+'''_______________OUTPUT_____________
+Enter n value:5
+The factorial of 5 is 120
+
+[Program finished]'''
